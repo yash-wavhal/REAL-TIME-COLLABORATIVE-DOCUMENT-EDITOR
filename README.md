@@ -88,22 +88,22 @@ PROJECT SNAPSHOTS ->
 
 
 
-![Screenshot (19)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/4e9c93d3-9b8d-4170-8683-41b3c9cdf44d)
+- **Register Page**: ![Screenshot (19)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20182422.png)
 
 
-![Screenshot (21)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/d8d46bcc-af22-40d3-964e-707766b51522)
+- **Login Page**: ![Screenshot (21)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20182459.png)
 
 
-![Screenshot (22)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/37f102ba-e5d4-4083-8b7f-660db28e2cb9)
+- **HomePage**: ![Screenshot (22)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20180639.png)
 
 
-![Screenshot (26)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/bec637a6-c544-4f26-877b-5cd6dc594647)
+- **First User Editing**: ![Screenshot (26)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20180950.png)
 
 
-![Screenshot (28)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/ee8a2558-3320-40be-9f96-b40d3f5e2c16)
+- **Second User Editing**: ![Screenshot (28)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20181024.png)
 
 
-![Screenshot (33)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/b7bea3c8-584d-4247-924f-dbe96bc2bd24)
+- **Bold-Italic-Underline**: ![Screenshot (33)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20181054.png)
 
 
-![Screenshot (35)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/179da481-b196-410e-a4ce-d56cd1b43442)
+- **Document Save Page**: ![Screenshot (35)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20182252.png)
